@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Meu Espaço Pessoal",
+  "short_name": "Meu Espaço",
+  "description": "Seu cantinho pessoal para memórias, organização, descobertas e autocuidado.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#15121f",
+  "theme_color": "#171323",
+  "categories": [
+    "lifestyle",
+    "productivity",
+    "personalization"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

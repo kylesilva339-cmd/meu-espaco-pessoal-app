@@ -1,0 +1,7 @@
+MEU ESPAÇO PESSOAL — V8
+
+Esta é uma versão de evolução do protótipo V7. Inclui filtros e busca em Descobertas, cartões de atalho para looks/cabelo e Project Pan, além da estrutura PWA.
+
+Para abrir: abra index.html no navegador. Para instalar como app e habilitar funcionamento offline, publique a pasta inteira em um endereço HTTPS e abra esse endereço no Chrome do Android; depois use “Instalar app”/“Adicionar à tela inicial”. O modo file:// não habilita service worker nem instalação PWA.
+
+IMPORTANTE: os registros ficam no armazenamento local do navegador/dispositivo. Exporte backups JSON regularmente; limpar os dados do navegador pode apagar os registros. Fotos consomem espaço. O pacote não é um APK e ainda precisa de testes reais no Android antes de ser considerado pronto para uso diário.
