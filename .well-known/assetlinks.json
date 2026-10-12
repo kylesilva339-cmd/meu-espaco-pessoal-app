@@ -1,1 +1,15 @@
 
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kylesilva339_cmd.twa",
+      "sha256_cert_fingerprints": [
+        "DC:F6:08:64:FE:A0:0D:05:DE:D8:C8:03:DD:F8:6E:8A:05:A9:C5:9C:20:AC:76:35:5D:D8:65:C4:D1:64:19:68"
+      ]
+    }
+  }
+]
